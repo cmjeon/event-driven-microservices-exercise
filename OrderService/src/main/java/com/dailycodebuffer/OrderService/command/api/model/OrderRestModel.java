@@ -11,5 +11,5 @@ public class OrderRestModel {
     private String productId;
     private String userId;
     private String addressId;
-    private String quantity;
+    private Integer quantity;
 }
